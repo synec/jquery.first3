@@ -42,7 +42,7 @@
             // call them like so: this.yourOtherFunction(this.element, this.options).
             var
               $this   = $(this.element),
-              a       = $this.html().split(" "),
+              a       = $this.html().trim().split(" "),
               words, elem;
 
             if (a.length > this.options.words) {
