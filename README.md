@@ -1,6 +1,6 @@
 # jquery.first3
 
-Very simple plugin to wrap a number of first words of an element in another.
+Very simple plugin to wrap a number of first words of an element into another.
 
 # Usage
   By default the first 3 words are wrapped in a `<span>`
