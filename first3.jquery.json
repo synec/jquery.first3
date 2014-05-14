@@ -1,0 +1,29 @@
+{
+	"name": "jquery.first3",
+	"title": "jquery.first3",
+	"description": "Plugin to wrap first words of text in an element",
+	"keywords": [
+		"jquery",
+		"first3",
+		"plugins"
+	],
+	"version": "0.0.1",
+	"author": {
+		"name": "Daniel Grabert",
+		"email": "d@synec.de",
+		"url": "https://github.com/synec"
+	},
+	"licenses": [
+		{
+			"type": "MIT",
+			"url": "http://zenorocha.mit-license.org/"
+		}
+	],
+	"bugs": "https://github.com/synec/jquery.first3/issues",
+	"homepage": "https://github.com/synec/jquery.first3",
+	"docs": "https://github.com/synec/jquery.first3#readme",
+	"download": "https://github.com/synec/jquery.first3/archive/master.zip",
+	"dependencies": {
+		"jquery": ">=1.4"
+	}
+}
